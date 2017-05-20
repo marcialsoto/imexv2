@@ -69,7 +69,7 @@ $table_prefix  = 'im_';
  * Se recomienda encarecidamente a los desarrolladores de temas y plugins que usen WP_DEBUG
  * en sus entornos de desarrollo.
  */
-define('WP_DEBUG', true);
+define('WP_DEBUG', false);
 define( 'FS_METHOD', 'direct' );
 
 /* ¡Eso es todo, deja de editar! Feliz blogging */
